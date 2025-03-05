@@ -1,7 +1,7 @@
 package foodzombie.utils;
 
 public enum LootNumbers {
-    UNCOMMON(0.2f, 3, 5),
+    UNCOMMON(0.1f, 3, 5),
     RARE(0.05f, 2, 4),
     EPIC(0.02f, 1, 3),
     MONEY(1, 10, 30);

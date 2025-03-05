@@ -1,4 +1,4 @@
-## Food Zombie Mod for Necesse (v0.30.0)
+## Food Zombie Mod for Necesse (v0.31.0)
 
 ![preview.png](src/main/resources/preview.png)
 
